@@ -7,3 +7,7 @@ using below tools you can build andriod apps with python
    - kivy
    - BeeWare
    - Qpython
+   
+   to upload to phone:-
+   ------------------
+   https://pythonprogramming.net/packaging-deployment-kivy-application-python-tutorial/
