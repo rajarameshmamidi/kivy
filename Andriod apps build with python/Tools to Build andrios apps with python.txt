@@ -12,3 +12,6 @@ using below tools you can build andriod apps with python
    ------------------
    https://pythonprogramming.net/packaging-deployment-kivy-application-python-tutorial/
 on left hand side of kivy.org.....you have all infromation about code basics, packaging the app to windows, andriod, linux etc... this is sufficeint to learn to build apps using python & Kivy. 
+
+using buildozer we can upload kivy code to phone. follow below link for more details.
+http://inclem.net/2014/01/12/kivy-crash-course/2_building_an_android_apk/
