@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/49955489/how-to-make-android-app-completely-in-python
+
+https://stackoverflow.com/questions/40326178/how-can-i-write-an-android-app-in-python 
+
+using below tools you can build andriod apps with python
+
+   - kivy
+   - BeeWare
+   - Qpython
